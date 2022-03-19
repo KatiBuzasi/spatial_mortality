@@ -11,6 +11,8 @@ Data are not provided.
 Other web apps developed as part of the project:
 
 https://deathinamsterdam.shinyapps.io/mortality_by_age_group/
+
+
 https://deathinamsterdam.shinyapps.io/causes_of_death_in_Amsterdam/
 
 Contact: Katalin Buzasi (katalin.buzasi@ru.nl)
